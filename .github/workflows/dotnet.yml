@@ -1,4 +1,4 @@
-rname: .NET Core CI
+name: .NET Core CI
 
 on: [push]
 
